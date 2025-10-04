@@ -1,4 +1,4 @@
-Course Manager App
+Course Manager
 
 ---
 
